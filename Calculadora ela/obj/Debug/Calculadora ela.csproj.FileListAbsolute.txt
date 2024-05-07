@@ -1,0 +1,11 @@
+C:\Users\fabio.bgracce\source\repos\Calculadora ela\Calculadora ela\bin\Debug\Calculadora ela.exe.config
+C:\Users\fabio.bgracce\source\repos\Calculadora ela\Calculadora ela\bin\Debug\Calculadora ela.exe
+C:\Users\fabio.bgracce\source\repos\Calculadora ela\Calculadora ela\bin\Debug\Calculadora ela.pdb
+C:\Users\fabio.bgracce\source\repos\Calculadora ela\Calculadora ela\obj\Debug\Calculadora ela.csproj.AssemblyReference.cache
+C:\Users\fabio.bgracce\source\repos\Calculadora ela\Calculadora ela\obj\Debug\Calculadora ela.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio.bgracce\source\repos\Calculadora ela\Calculadora ela\obj\Debug\Calculadora_ela.Form1.resources
+C:\Users\fabio.bgracce\source\repos\Calculadora ela\Calculadora ela\obj\Debug\Calculadora_ela.Properties.Resources.resources
+C:\Users\fabio.bgracce\source\repos\Calculadora ela\Calculadora ela\obj\Debug\Calculadora ela.csproj.GenerateResource.cache
+C:\Users\fabio.bgracce\source\repos\Calculadora ela\Calculadora ela\obj\Debug\Calculadora ela.csproj.CoreCompileInputs.cache
+C:\Users\fabio.bgracce\source\repos\Calculadora ela\Calculadora ela\obj\Debug\Calculadora ela.exe
+C:\Users\fabio.bgracce\source\repos\Calculadora ela\Calculadora ela\obj\Debug\Calculadora ela.pdb
